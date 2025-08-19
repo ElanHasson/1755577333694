@@ -1,6 +1,9 @@
 {
   "name": "editing-life-a-beginner-s-guide-to-crispr",
   "version": "1.0.0",
+  "cacheDirectories": [
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
